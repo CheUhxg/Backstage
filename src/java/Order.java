@@ -8,4 +8,5 @@ public class Order {
     private int end_time;
     private Map<Integer,Integer> product;
     private Map<Integer,Integer> processes;
+    
 }
